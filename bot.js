@@ -1,3 +1,5 @@
+var HTTPS, cool, botID;
+
 var HTTPS = require('https');
 var cool = require('cool-ascii-faces');
 
